@@ -1,5 +1,3 @@
-# chinook_sql_analysis
-
 # 🚀 Chinook SQL Analysis Project
 
 This project focuses on performing SQL-based data analysis using the Chinook Database (sourced from Kaggle), a digital media store dataset. It explores how SQL can be used to answer key business questions for a music store—despite me not being a frequent music listener, this project demonstrates my data analysis capabilities using structured relational data.
