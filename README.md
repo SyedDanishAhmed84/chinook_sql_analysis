@@ -23,9 +23,10 @@ Objectives:
 
 ## 👨‍💻 Author
 **Syed Danish Ahmed**
-Aspiring Data Scientist | Computer Engineering Student
 
-**If you found this project useful, please ⭐ the repo. Your support is appreciated!**
+**Aspiring Data Scientist | Computer Engineering Student**
+
+If you found this project useful, please ⭐ the repo. Your support is appreciated!
 
 *Note: I don’t listen to songs often, this dataset was used purely for educational and analytical purposes.*
 
